@@ -156,35 +156,49 @@
               </div>
               <img style="width: 489px; height: 489px; top: 74px; position: absolute; " src="assets/Assistant bot.svg" />
           </div>
-          <div class="register-container">
-              <div style="width: 441px; height: 106px;">
-                  <div class="register-1">Registration</div>
-                  <div class="register-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae, in tristique senectus dui pharetra sit.</div>
-              </div>
-              <div style="width: 479px; height: 282px;">
-                  <div class="register-3">
-                      <div class="register-4"><span style="color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Name </span><span style="color: #EB5939; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">*</span></div>
-                      <div class="register-5">
-                          <div class="register-6">Enter your name</div>
-                      </div>
-                  </div>
-                  <div class="register-7">
-                      <div class="register-8">Company</div>
-                      <div class="register-9">
-                          <div class="register-10">Enter your company name</div>
-                      </div>
-                  </div>
-                  <div class="register-11">
-                      <div class="register-12"><span style="color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Email address </span><span style="color: #EB5939; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">*</span></div>
-                      <div class="register-13">
-                          <div class="register-14">Enter your email address</div>
-                      </div>
-                  </div>
-              </div>
-              <div class="register-15">
-                  <div class="register-16">Submit</div>
-              </div>
-          </div>
+       <div class="register-container">
+            <form id="registrationForm" (submit)="submitForm()">
+                <div style="width: 441px; height: 106px;">
+                    <div class="register-1">Registration</div>
+                    <div class="register-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae, in tristique senectus dui pharetra sit.</div>
+                </div>
+                <div style="width: 479px; height: 282px;">
+                    <div class="register-3">
+                        <div class="register-4">
+                            <span style="color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Name</span>
+                            <span style="color: #EB5939; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">*</span>
+                        </div>
+                        <div class="register-5">
+                                <input class="register-6" type="text" id="name" name="name" required />
+                                <div id="nameError" class="error-message"></div>
+                        </div>
+                    </div>
+                    <div class="register-7">
+                        <div class="register-8">Company</div>
+                        <div class="register-9">
+                            <input class="register-10" type="text" id="company" name="company" />
+                        </div>
+                    </div>
+                    <div class="register-11">
+                        <div class="register-12">
+                            <span style="color: black; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Email address </span>
+                            <span style="color: #EB5939; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">*</span>
+                        </div>
+                        <div class="register-13">
+                            <input class="register-14" type="email" id="email" name="email" required />
+                            <div id="emailError" class="error-message"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="register-15">
+                    <div class="register-16">
+                        <button type="submit">Submit</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        
+          
       </div>
 
       <div class="footer-container">
