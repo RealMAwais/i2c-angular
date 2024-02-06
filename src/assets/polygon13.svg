@@ -1,0 +1,47 @@
+<svg width="15" height="10" viewBox="0 0 15 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="15" height="10" fill="#1E1E1E"/>
+<g id="Design" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="2560" transform="translate(-962 -1425)" fill="#EBF0FF"/>
+<g id="Background">
+<g id="bg" opacity="0.5">
+<rect id="Rectangle 54" opacity="0.7" width="634" height="634" transform="matrix(1 0 0 -1 -620 478)" fill="url(#paint0_radial_0_1)"/>
+<rect id="Rectangle 56" width="634" height="634" transform="matrix(1 0 0 -1 -363 202)" fill="url(#paint1_radial_0_1)"/>
+<rect id="Rectangle 57" width="634" height="634" transform="matrix(1 0 0 -1 -256 330)" fill="url(#paint2_radial_0_1)"/>
+<rect id="Rectangle 58" width="634" height="634" transform="matrix(1 0 0 -1 -115 69)" fill="url(#paint3_radial_0_1)"/>
+</g>
+</g>
+<g id="Frame 83">
+<g id="Frame 77">
+<g id="Frame 78">
+<g id="Frame 76">
+<g id="g3">
+<path id="path9" d="M43.9782 26.4894C43.063 24.511 40.8901 23.2465 38.5744 23.3836C31.0548 24.0712 23.6997 30.255 19.8379 39.1318C17.8115 43.6947 16.7055 47.4596 15.9803 53.4511C18.3185 50.7584 23.0879 46.3337 28.5003 43.9148C28.5003 43.9148 29.2368 38.1708 32.9923 33.0585C34.4134 30.9415 37.2574 27.5338 40.4507 28.4403C43.2406 29.3754 42.2601 37.0986 38.5519 44.5728C35.8081 50.0704 31.6095 55.5688 27.3613 59.3607C23.6054 62.5491 18.0485 66.3966 13.1866 63.4287C10.1244 61.6155 8.56248 57.8217 8.89259 52.9295C10.3557 39.0503 16.6736 27.2318 25.7149 13.7646C35.0375 1.25926 45.314 -11.5759 59.1579 -18.4206C61.9816 -19.8496 64.5966 -20.1793 66.857 -19.2998C66.857 -19.2998 53.8615 -12.1538 47.6668 1.0666C46.091 4.42025 43.8993 8.95387 46.1064 12.967C47.2597 15.0554 49.3076 15.2206 50.9563 15.1106C58.5495 13.3512 63.4553 6.26044 67.4635 -0.225285C69.7874 -5.14497 71.8529 -10.0372 71.8529 -15.4793C71.8529 -16.1388 71.8187 -17.0179 71.7628 -17.6781C75.3906 -19.6013 82.8294 -16.194 82.8294 -16.194C88.6426 -14.2693 101.02 -4.7867 105.196 -2.97355C107.232 -5.33687 110.579 -8.90947 112.464 -10.6963L109.736 -12.3731C105.368 -15.0392 100.751 -17.5681 96.2072 -20.0689C85.8875 -25.7025 77.4877 -23.7241 73.2124 -22.1847C71.5322 -21.5805 69.9966 -21.0581 69.9966 -21.0581C66.8239 -24.521 61.6207 -24.192 57.7868 -23.2569C43.9989 -19.2994 31.1975 -9.65267 17.4731 7.0859C7.38288 20.1963 1.12399 31.5202 -2.212 42.7059C-4.78339 50.236 -5.5649 61.3125 0.711263 67.8816C6.04743 73.4592 13.1231 72.2511 18.1198 70.2453C28.9457 64.9132 38.6758 53.4241 43.5242 40.204C44.694 36.2743 45.9926 30.7225 43.9782 26.4894ZM68.8718 -14.9291C67.4387 1.50675 54.6629 11.1546 51.5019 11.923C49.5863 12.3071 46.3175 11.4558 49.2355 4.55808C53.5329 -4.73262 60.8696 -12.6199 68.7415 -16.6604C68.933 -15.9732 68.9281 -15.5345 68.8718 -14.9291Z" fill="#F89D21" fill-opacity="0.6"/>
+<path id="polygon13" d="M9.6954 9.10783L14.7822 0.845764H5.76755L0.682617 9.10783H9.6954Z" fill="#F89D21" fill-opacity="0.6"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(317 317) rotate(90) scale(317)">
+<stop stop-color="#B9CEEA"/>
+<stop offset="1" stop-color="#F6FBF8" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(317 317) rotate(90) scale(317)">
+<stop stop-color="#FAB7B8"/>
+<stop offset="1" stop-color="#F6FBF8" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_radial_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(317 317) rotate(90) scale(317)">
+<stop stop-color="#FFDF7C"/>
+<stop offset="1" stop-color="#F6FBF8" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint3_radial_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(317 317) rotate(90) scale(317)">
+<stop stop-color="#B9CEEA"/>
+<stop offset="1" stop-color="#F6FBF8" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="2560" fill="white" transform="translate(-962 -1425)"/>
+</clipPath>
+</defs>
+</svg>
